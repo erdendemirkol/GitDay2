@@ -8,6 +8,6 @@ public class Homepage {
 
 // more thing for the homepage
 
-
+//footer
 
 }
